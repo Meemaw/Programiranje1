@@ -1,0 +1,30 @@
+prim5[5]
+25
+33
+pstruct{prim2, prim9, prim10, prim2[5][5]}
+71
+99
+prim2[3]
+6
+33
+ostruct{prim2, prim6, prim10, prim5}
+132
+132
+pstruct{prim10, prim6[4], prim8, prim5}
+47
+66
+pstruct{prim8}
+8
+33
+prim8[3]
+24
+33
+pstruct{prim3[5], prim8}
+23
+33
+pstruct{prim5, prim10, prim3, prim2, prim7}
+27
+33
+prim4[4]
+16
+33

@@ -1,0 +1,8 @@
+4 6
+2 1 2 2 2 2
+false bbb true true true false
+false aba true true false true
+false bba false true false true
+true baa true true true true
+0
+3 1

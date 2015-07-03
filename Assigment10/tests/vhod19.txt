@@ -1,0 +1,14 @@
+10 3
+2 1 0
+true baa -729
+true abb 529
+false bba -320
+false bba -191
+true baa -298
+true abb -658
+true bba 796
+false bba 825
+true bbb -412
+true bba -264
+0
+6 1

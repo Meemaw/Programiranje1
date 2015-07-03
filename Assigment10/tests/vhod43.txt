@@ -1,0 +1,30 @@
+23 38
+1 0 0 1 0 1 2 1 0 2 0 2 2 2 1 0 1 0 1 2 0 0 2 2 1 1 2 0 2 1 1 2 2 1 1 1 2 0
+abb 5 5 bab 6 baa false aba 5 true 6 true false true baa 5 abb 6 aba false 6 5 true true aab bab true 6 false aaa abb true true aab abb abb false 5
+bbb 5 6 aba 6 bba false abb 5 false 5 false true false bbb 6 aba 5 aaa false 6 5 true true bbb aab true 6 false aaa aba false false bba bab bbb false 5
+aba 5 6 aba 6 aab false aab 5 true 5 false false false aaa 6 bbb 5 aba true 5 5 false true aaa baa true 6 false abb aba false false bba bbb bba false 6
+bba 5 6 bbb 5 bbb true aab 5 false 6 true false true aba 5 aba 5 bab false 6 6 true true bab abb false 5 true bba aba true true baa bab abb false 5
+baa 5 6 bba 6 aaa true bbb 6 false 5 false true true bbb 6 aab 6 aaa false 5 6 false true abb bba false 6 false baa bbb true false aab baa abb true 5
+abb 6 5 bab 5 aab false aaa 5 true 6 true true true bbb 5 bba 6 aab true 5 6 false true bba baa false 5 false bbb aba false false bbb bba aaa false 5
+bba 6 6 aab 5 aaa true aba 5 false 5 true true true bbb 6 aab 5 bbb true 5 5 false false bbb baa true 5 false aba baa true false bba bab bab true 6
+abb 5 5 aaa 6 aba false baa 5 false 5 false false true bab 5 bbb 6 abb true 5 6 false false abb bba false 6 false bba abb false true baa aaa aaa false 6
+abb 6 5 aaa 6 baa true aaa 6 false 6 true true false aaa 5 abb 6 abb false 6 5 true false baa baa false 5 true aab aaa true true abb baa aaa true 6
+aab 6 6 aab 5 aab true aab 6 false 5 true false true baa 5 abb 5 aab true 6 6 false false bbb aab true 5 true baa aab false true aab aaa bbb false 6
+abb 5 6 bba 6 aba false aab 5 false 5 false false true aab 5 aab 6 abb true 6 5 false false abb aba true 5 true bbb baa true true bbb aba aaa false 5
+aaa 6 5 bba 5 aba true aaa 6 true 6 true true false bba 5 bab 5 aab true 6 6 true true bab baa false 5 true aaa aab true true baa aab bab true 5
+aba 6 6 bbb 6 baa true aab 5 false 5 false true false bba 6 baa 6 aaa false 5 6 false true baa abb false 6 true aaa aba true false aba abb aaa false 6
+aba 5 5 bbb 5 bbb false aaa 5 true 5 true true true aab 5 bbb 6 aaa true 6 5 true false aba bbb false 6 true aab bbb false false aab aab bbb true 5
+abb 5 6 bbb 6 aab false baa 5 false 6 false true true abb 6 aaa 6 bab true 6 6 false true baa bbb true 6 true aba bbb true false aba bba abb false 6
+abb 5 6 bab 6 aba true aaa 6 true 5 true true false abb 5 abb 6 aba false 5 5 false true aab bbb true 5 false aab aaa false true abb aab aab false 5
+bba 5 6 aab 6 aaa false baa 6 false 5 false false true bba 6 aba 6 baa false 6 6 true false aba bba false 6 true aab baa true true aab baa aba true 5
+abb 6 6 aab 6 aaa true abb 5 false 5 true true true baa 5 aaa 5 bba false 6 6 true true bab bab true 6 false aba baa false false bba aba baa false 5
+aba 6 6 baa 6 bab false bbb 6 false 6 false true true aab 5 aab 6 bba false 5 6 true true bab aab true 6 true aaa bab true true aab abb bab true 5
+baa 6 5 aba 5 baa true aaa 5 false 5 false false true aba 5 abb 6 aaa true 6 6 false true baa aaa false 6 true bba abb true true abb aba bba true 6
+baa 5 6 baa 5 baa true baa 5 true 6 true true true abb 5 aba 5 abb false 5 6 true true bba abb true 5 true baa bbb true true aba bbb baa true 6
+abb 6 6 bbb 6 aab true aaa 5 false 5 true false false bab 5 aab 5 baa false 6 6 true true aab aba false 5 false aba abb true false bbb aaa abb false 5
+aaa 6 6 aba 5 abb false bab 6 false 5 false false false bab 5 bab 6 aab true 6 6 true true baa baa false 6 false baa abb true false aab aab bba false 6
+3
+uredi 27 -7 -17 -8 -26 -31 -30 -16 34 -36 -14 -27 -11 -28 -20 -12 -5 -13 3 -21 25 15 38 33 19 -35 -10 37
+uredi 24 26 -35 6 25 8 24 -7 29 31 12 1 22 -33 -4 28 -3 21 5 32 -15 -23 -19 -14 9
+uredi 10 -33 -26 7 -11 -29 22 -14 -30 2 27
+10 6

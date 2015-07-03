@@ -1,0 +1,43 @@
+87
+10
+pstruct 12 prim 62 prim 4 prim 26 prim 19 prim 96 prim 21 prim 29 prim 10 prim 42 prim 82 prim 47 prim 75
+ostruct 12 prim 11 prim 94 prim 66 prim 22 prim 1 prim 99 prim 100 prim 58 prim 16 prim 83 prim 8 prim 10
+pstruct 18 prim 70 prim 27 prim 94 prim 30 prim 55 prim 35 prim 71 prim 7 prim 63 prim 5 prim 22 prim 80 prim 99 prim 83 prim 12 prim 1 prim 23 prim 59
+ostruct 10 prim 7 prim 4 prim 79 prim 21 prim 1 prim 48 prim 42 prim 8 prim 54 prim 12
+pstruct 1 prim 35
+pstruct 20 prim 16 prim 85 prim 69 prim 83 prim 35 prim 31 prim 38 prim 17 prim 49 prim 63 prim 62 prim 57 prim 59 prim 23 prim 19 prim 91 prim 35 prim 78 prim 1 prim 1
+ostruct 17 prim 15 prim 42 prim 2 prim 92 prim 10 prim 71 prim 21 prim 72 prim 72 prim 2 prim 99 prim 12 prim 36 prim 69 prim 55 prim 6 prim 99
+ostruct 17 prim 63 prim 27 prim 76 prim 6 prim 21 prim 2 prim 38 prim 44 prim 12 prim 26 prim 72 prim 2 prim 87 prim 15 prim 27 prim 19 prim 95
+ostruct 17 prim 96 prim 16 prim 38 prim 41 prim 4 prim 45 prim 98 prim 70 prim 89 prim 86 prim 14 prim 14 prim 96 prim 58 prim 37 prim 82 prim 56
+pstruct 19 prim 52 prim 89 prim 57 prim 56 prim 39 prim 74 prim 66 prim 93 prim 94 prim 81 prim 25 prim 1 prim 59 prim 62 prim 21 prim 63 prim 16 prim 77 prim 95
+30
+1 6
+2 6
+3 6
+1 2
+2 2
+3 2
+1 1
+2 1
+3 1
+1 5
+2 5
+3 5
+1 8
+2 8
+3 8
+1 9
+2 9
+3 9
+1 10
+2 10
+3 10
+1 7
+2 7
+3 7
+1 3
+2 3
+3 3
+1 4
+2 4
+3 4

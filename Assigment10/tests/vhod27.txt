@@ -1,0 +1,81 @@
+71 39
+0 1 2 0 2 0 1 1 2 1 1 0 0 2 2 1 2 2 0 2 1 2 1 2 0 1 2 0 1 1 2 1 0 0 2 2 0 2 2
+-693 aba false 654 true 938 baa aba false bba aba -787 -259 true true abb true true 662 false bba false bbb true -805 abb true 732 bbb baa true bbb -998 21 false false 455 false false
+-181 bab false -611 true 892 aba bab true aba bbb 519 227 true true baa false false 308 false aba true abb true 189 abb false -396 bba bab false aab -196 788 true true -389 true false
+-768 bba true 385 true 518 baa abb true bab baa -40 376 true false aba true true 826 true aab false baa false 997 baa false -436 baa baa true baa -255 -991 false false 509 false false
+377 aba true -761 true 582 bba abb true bab baa 588 699 false false bba true true -581 true aab true bab false 728 aba true -376 aba aab true bba 285 691 false true 239 false true
+113 aba false -972 false 154 baa aba true aaa bab -895 -365 false true baa false false 933 true aab false abb false 681 bba true -541 bba aba false bab -599 -790 false true -206 false false
+-428 aba true -719 true -815 bba bbb false bbb baa 298 280 false true abb false false -294 true abb false bbb false -915 aaa true 685 baa aba true abb -671 -465 false true 893 true true
+530 aab false 992 false -606 aab bba false bbb bba -385 -467 false true baa false false -346 true bab true aba false 989 baa false 406 bab bbb true aab 341 481 true true -428 false true
+495 bab false 864 true -752 bbb aab true baa aab -734 610 false false aba true false -890 false baa false aaa false -909 baa false 834 bab aab true aab -449 -218 true false -991 true false
+-130 aaa true 302 false 667 bbb baa true bbb abb 122 -522 false false bab false false -229 false aab false aba true -75 bbb false -93 aaa aab true baa -964 -777 true true -546 false false
+132 bba false 220 true 988 aab aba true bab abb -312 804 true true aaa true true -379 true bbb false baa false -553 abb true 806 bba aaa true baa -219 342 false false 636 true false
+-366 bba true -251 true -24 bbb aba true aaa abb -910 164 false false aaa true false -772 true aab false aab true -840 baa false 287 aaa aab false baa 245 -342 true true -716 false true
+-797 bbb false -834 true -491 baa bbb true aba bbb -811 -614 false true bab false true -698 false bba true aaa false -917 bbb false 747 bab abb true aaa 338 -155 true true 175 true true
+-993 bbb true 717 false -572 aab baa true aaa aab -20 653 true true baa false true -815 false bba false bba false -63 abb false 999 baa baa true bab -489 -67 false true 747 false true
+613 abb false -638 true -491 aba aab false aab aab -1000 202 true false bab false true 342 false aaa false aaa true 506 bba false -180 bbb bba false baa -573 989 false false -653 true false
+-664 abb true 712 true -727 bbb bab true bbb bba -558 857 true false bbb true true 524 true bab false bbb true 650 abb false -750 aab aab true bab -383 -700 true false 110 false false
+220 aab false -590 true 21 bba aaa true bab aab -666 171 false false aab true true 279 true bab true baa false -466 baa false -489 abb baa false aba -40 -460 true true 661 false true
+-612 abb false -663 false 890 bab baa false aaa baa 284 697 true false aba true true -578 false aab false aba true -686 bbb true 634 bba aaa true aaa 398 -744 false false -349 true false
+-52 aaa true -1000 true -324 aaa bab false aaa abb -880 304 false false aab false true 735 false aaa true aaa true -801 baa true -321 abb aba true aaa 917 -220 false true 237 true true
+951 aab true 649 false -529 aba bbb true baa aaa -421 225 true false aba true false 625 true bbb false aba true -567 bab false -195 bbb aab true aaa -572 -419 false false 39 true false
+-100 aba false 656 false 55 baa aab false baa aaa -905 222 true true bbb false true -432 false bba true bab false 498 bba true -879 bab bbb true aaa -375 -299 false true 225 false true
+-368 baa false -303 true -793 baa aab false bab bba -715 611 true false aab true true -137 false abb true bbb false 824 bab true 891 bbb bab false bba -708 -478 true true -436 true true
+98 aba true 423 false 279 aba bbb true aba aba 342 461 false false aaa false false -261 true bba true bab true -632 aba false -521 bab bba true bab 490 -643 true false -145 true false
+881 aab true -494 false 419 bbb baa true bab baa -142 -829 false true bba true false -20 false bba false abb true -420 abb true 603 aba bbb true aaa -151 525 true false 464 true true
+356 abb true 229 true 506 bab baa false aab bab -240 587 true true bbb false true -633 false bba true abb false -92 aba false -26 abb aab false bba 186 -273 true true 171 true false
+-785 baa true -536 false 470 abb aba true baa bba -551 -670 true false bab false false -721 true bbb false aab false -246 abb false 515 aba aaa true aaa 294 47 true false -180 false true
+247 aaa true -968 false 705 baa aab true aba bba 9 37 false false bbb true true 901 false aab false bab true -374 bba false -673 aab bab false aab 694 155 true false -226 false false
+-90 aaa false 906 false 396 bba bba false aba baa -275 -544 true true bab false true -56 false bab true aab false -40 aaa false -857 bbb bbb false aaa -200 -165 true true 230 true false
+-545 bba true 603 true -505 aaa aaa true aba bbb 262 680 true true aaa true true 160 false abb true bab false -713 bbb true 899 bbb aab true aab -175 497 false false 845 true true
+-806 aab true -482 false -961 bbb abb true aaa baa -874 -156 false true aab true true -495 true aab false bba false 409 bbb true 958 bba aba true aba 821 -455 false false 969 false true
+-922 aaa true 616 false 647 bbb bba false bba aba 723 391 true true abb false false 360 false bbb false aab true 558 bba false 907 bba abb true bba 673 554 false true 406 true true
+676 baa false 703 false 498 bab aab true bab aab 108 -297 false true abb true false 256 true aba false baa false -465 aba true 745 abb bba false bbb -561 -14 true true -654 true false
+-241 aab false -725 true 721 abb abb true baa bab -857 -69 false true bab false true 793 true aba true abb true -97 bbb true 861 baa aba false bab 297 -658 true true 506 false true
+-929 aba false 374 true -117 aaa aba true aaa bbb 830 -12 true true bab true true -695 false abb false aba false 473 aaa true -517 bba bbb true abb 368 -966 true true 488 false true
+806 bab false -794 true -969 baa abb false bbb abb 188 137 false true baa true true 856 false bab true aab false 272 abb false 175 bbb baa true aba 389 -31 true false -914 false false
+599 bbb false 956 false -136 aaa aba true aab aba -75 -102 true false bbb true true -281 true aab false aaa false 830 bba true 836 baa abb true aab -730 141 false true 308 true true
+564 bbb false -519 true -914 aba abb true bba baa -535 -526 true false bab true false 650 false baa false bab true -296 bba true -305 bab bab false baa -427 810 false true 324 true false
+585 bbb true 309 false -392 aab aba false aab abb 139 620 false true baa false true -769 false aab true bab true 927 aaa true -133 bbb bbb true bba -388 106 true false -303 false false
+209 aaa false -469 true -689 abb abb true bab aab 268 197 false true abb true false 266 true aba true baa false -137 aab false -811 aab bab true bab -187 754 true false -850 true true
+-298 abb true -915 true 839 aaa aaa true bba bbb 302 -900 false false bba true false 177 false abb false bba false 281 bbb true 719 abb bab false abb 886 115 true true 283 false false
+244 bab false 260 false -6 bab bba true bab bab -16 -763 true false bbb false true -654 true bab true aba false -807 baa true -430 bba aaa true bbb -118 103 true true -72 true true
+421 abb true 733 true -851 aab bba false abb abb 661 118 true true baa true false 641 true bba false aaa false 522 aba true 955 bab aba true bbb 31 822 false true 990 true true
+242 aab true 60 true 859 bbb bbb false aba bab 429 -490 true false bba false true -533 true bab false aaa false -680 baa false 33 bba aaa false bba 488 -309 false true 442 false false
+-724 bab false -162 true -19 bba aba false aab bab 153 683 false false aba true true 590 true aaa false bbb true 194 aaa true -120 bab baa true aab -589 -71 false true 175 true false
+36 aab true -266 false -36 bba aaa false bab aaa -198 536 true false aab false false 336 false bab true bbb true 253 aab false 629 bab bba true bab 321 429 true false 330 true true
+269 aaa true 17 true 89 abb baa false aaa bab 560 51 true true aaa false false -926 true aab true aaa false -341 bbb false -420 aab aaa true aaa 327 72 true true 467 true false
+252 aaa true 245 true 446 bab aaa true bba abb -184 -800 false true aba false false -970 true bbb false aaa false 226 aaa true -906 bab aab true abb -657 -504 true true 442 false false
+828 aaa true 649 true 537 bab baa false bbb baa -519 267 false false aab true true 877 false baa true bab false -898 aba true -807 aaa abb true aaa 781 752 false true -749 false true
+627 abb false -925 true -653 bba abb true baa bba -813 597 true true baa false true 645 true baa true abb true -748 aaa true -232 bba bab false aab -897 439 false false -551 true false
+341 baa false -195 false 994 bba bbb false bba bba -434 -708 false false bbb false false -798 true aaa false aaa true -748 bab true -409 bbb bab false aba -924 -908 true false -875 true false
+-79 aab false -252 true -402 aab bba false aba aab 82 277 true true bab false false 514 false aaa false bab false 185 aab true 966 bbb abb false bbb 311 -244 true true 618 false false
+-20 abb true 394 false 345 aba aab false aba abb 982 -13 true true bba false true 618 true abb true aab true 884 aab true -154 aab aab false abb -843 -804 true true 498 false false
+-919 aaa true -92 true 75 bab aab true bba aaa -175 417 true true abb true false 54 true aba false bab true 944 bbb false 631 abb bba true baa -217 -648 true false -226 false true
+235 aba true -442 false 129 bba aaa false bab aaa -756 556 true true bbb true false -900 false aba false abb false -552 bbb true -210 aaa bba true abb 979 587 true true -339 true true
+511 baa false 613 true -37 abb bab false baa bba -977 760 false false bba true true 508 true baa false bbb true -377 aab true -450 abb aaa true bbb 669 -7 false true 943 true false
+-538 aab true 602 true 639 bbb bba true aaa aab -970 490 true false aaa true true -622 true baa false abb false 39 aaa false 240 aaa baa false baa -638 -572 true true -718 true true
+-698 bab true 296 true 481 bba bba true bab bbb 746 -845 true true bbb false false 442 true baa true bbb true 658 aab false 311 baa abb false aab 535 263 false false -216 false true
+-45 abb true 20 false -615 aaa aaa false bba bbb -648 -702 false true bba false true -54 true bab false bba false -61 aaa false -901 aba aba true aaa 139 652 true false 756 true false
+355 bbb false 112 false -478 baa abb true aab baa 183 319 true true bbb true false 268 true baa false bbb false 86 aaa true 753 aab aba false baa -380 -565 true true -117 true false
+-786 abb true 358 true -122 aaa abb false bba baa -330 -796 false false bbb false false -258 true bbb true aba false 442 bbb false 28 bba aaa true aab 550 -296 true false -220 false false
+353 aaa false -304 false -342 bab aba false abb bab -273 -623 false false abb true true 802 true aab true baa false -86 baa true -704 bab bba true baa 618 -659 true true -330 false false
+415 abb false -352 true -848 aaa bbb false aaa baa 841 585 false true bbb false true 712 false baa false bbb true 156 bab false -959 baa aba false bba -36 34 true false 577 true true
+-85 abb true 483 false -726 baa aba true aab aba -950 532 false true baa true false 160 false bbb true aab true 896 baa true -462 baa bbb false abb -452 326 false true -721 false false
+-251 abb false 24 true -194 bba abb true bab bab 537 -635 false true aaa true false -996 true aab true aab true 166 aba false -910 bba aab false bbb -291 -417 false false -882 false true
+-894 aba true 423 false 279 bba bba true abb bab -885 910 false false abb false false -106 false aba false abb true -633 baa true 491 baa bab false baa 489 -206 false false 239 true true
+284 bbb true 780 true -265 aba abb false aab baa -684 -819 false false bbb true false 554 false abb false aba true 606 bbb false -991 bbb aab false bba 183 221 false false 402 true true
+-141 bbb true -822 true 207 aaa bba false baa bab -333 -138 true false aab false false 702 true aba true aaa true -144 aaa true -745 aab bab false abb 893 -900 false false -461 false true
+985 baa false 799 true -467 aab aab true bab aba -488 257 true false aba false true -415 false aaa false aba true 347 aaa false -673 bab bab true aba 406 744 false true 303 false false
+-853 baa true -945 true 170 bab aab false bba abb -527 -857 true true bba true true 951 true bba false bba false 450 baa true -343 aab baa true aba 120 851 false true -345 false true
+-413 baa true -307 false 545 aab abb true bbb bba 688 837 true true baa false false 788 true aba true aba false -784 aaa true -373 abb bbb true bbb -906 -610 false true -296 true false
+-298 bba true -321 true 546 aba baa true abb baa -910 -864 false false aba true true 233 false bbb false aab true 449 aba true -306 abb bab true aba 87 1 false true -765 true false
+-829 bba true -277 true -802 abb bbb true bbb aaa -447 -650 false false bba false false -311 false aba false aba false -37 aba false 96 bab bab false abb -164 71 true false 35 true false
+6
+stolpci 6 29
+stolpci 4 16
+stolpci 3 9
+stolpci 1 6
+stolpci 2 5
+stolpci 2 4
+43 2

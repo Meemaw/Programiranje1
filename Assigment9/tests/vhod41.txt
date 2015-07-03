@@ -1,0 +1,43 @@
+94
+10
+ostruct 2 prim 5 prim 10
+arr 1 prim 4
+arr 1 prim 2
+ostruct 2 prim 7 prim 5
+ostruct 6 prim 6 pstruct 3 prim 8 prim 7 arr 4 prim 9 prim 4 prim 3 prim 4 ostruct 3 ostruct 1 prim 7 prim 4 pstruct 2 prim 7 arr 5 prim 6
+arr 4 prim 6
+pstruct 3 prim 8 prim 7 prim 2
+ostruct 1 prim 1
+arr 3 prim 2
+ostruct 6 prim 5 pstruct 1 prim 1 ostruct 7 prim 3 prim 2 prim 1 prim 10 prim 3 prim 3 prim 4 prim 1 arr 4 prim 1 prim 1
+30
+1 2
+2 2
+3 2
+1 3
+2 3
+3 3
+1 4
+2 4
+3 4
+1 9
+2 9
+3 9
+1 10
+2 10
+3 10
+1 1
+2 1
+3 1
+1 6
+2 6
+3 6
+1 8
+2 8
+3 8
+1 5
+2 5
+3 5
+1 7
+2 7
+3 7

@@ -1,0 +1,9 @@
+3 82
+2 1 0 0 0 0 0 0 1 2 0 0 2 1 2 2 1 1 0 2 0 0 1 1 2 1 1 1 2 1 1 0 0 0 1 2 1 1 0 1 0 2 1 0 2 2 1 1 2 2 1 1 1 2 0 2 2 2 1 1 0 1 0 0 0 1 2 2 1 2 1 0 1 1 0 2 2 2 0 1 2 1
+true baa 702 705 662 -627 -293 -84 bbb true -423 -911 true aba true true aab bbb 96 true 785 511 baa bbb false baa bab baa false abb aab 859 -932 476 baa false aaa bbb 103 abb 361 true bab -257 true false aba abb true true aaa bbb aaa false -377 false true true bab bbb 120 aaa -927 525 531 bbb true false aaa true bba -701 aaa aba -846 true true false 229 aba true baa
+true aab -310 -846 778 313 -856 654 bab true -848 474 false bba false false baa baa 763 true 302 136 aba aaa true abb abb bba false aab abb 273 0 270 baa true bbb bba 653 bbb -947 false abb 461 true false bba abb false true bbb bbb aaa true 433 false true true abb aaa 95 bab 198 -632 -460 bba true true aaa false bbb 142 bba aaa 39 true false true -670 aab false bbb
+true abb -328 536 -833 -890 -714 -721 baa false -894 -559 false baa false false abb aba 146 false -466 370 abb baa false aaa bbb aab false abb aab 935 838 382 bbb true bbb aab -368 aba 595 true bbb 172 false false bab aab false true aaa bba aba false 608 false true false aba bab -704 bab -124 -474 -246 bab true true aab true bba -750 aab baa 499 true true false 794 bbb false aab
+2
+filtriraj 43 0 2
+filtriraj 65 0 1
+1 27

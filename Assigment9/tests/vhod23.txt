@@ -1,0 +1,9 @@
+2
+5
+arr 408 prim 441
+arr 129 prim 394
+arr 274 prim 98
+arr 356 prim 139
+arr 435 prim 130
+1
+3 2

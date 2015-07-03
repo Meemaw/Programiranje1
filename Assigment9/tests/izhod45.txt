@@ -1,0 +1,30 @@
+prim4[3]
+12
+35
+pstruct{prim10, prim8, prim2}
+20
+35
+prim7[1]
+7
+35
+pstruct{prim5, prim1[1], prim3[2]}
+12
+35
+prim2[3]
+6
+35
+prim1[4]
+4
+35
+prim7[5]
+35
+35
+prim1[1]
+1
+35
+pstruct{prim6, prim7}
+13
+35
+ostruct{pstruct{prim5, prim10}}
+35
+35

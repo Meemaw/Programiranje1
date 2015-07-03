@@ -1,0 +1,9 @@
+3
+5
+arr 34 prim 348
+arr 155 prim 306
+arr 376 prim 235
+arr 217 prim 161
+arr 342 prim 239
+1
+1 1

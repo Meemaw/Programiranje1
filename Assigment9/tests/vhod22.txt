@@ -1,0 +1,9 @@
+25
+5
+arr 121 prim 407
+arr 307 prim 172
+arr 451 prim 407
+arr 28 prim 148
+arr 95 prim 330
+1
+2 3

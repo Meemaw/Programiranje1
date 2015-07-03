@@ -1,0 +1,74 @@
+65 13
+1 1 0 1 1 1 2 1 1 1 1 2 2
+aba aba 124 abb abb bab true aba aab abb bbb true false
+bab bab 805 baa bba abb false abb aaa aab bba true true
+bbb baa -627 abb bab bab false aba bbb aba bba false false
+bab abb -514 baa bba aab false aaa baa baa bba false false
+baa bba 301 bbb bab abb false bab aab bab aaa false false
+bba aab 508 bab aaa baa true bba abb bab baa true true
+bab aba 973 bba bab bbb true aba bbb bba bbb true false
+baa aba -38 aab baa aaa true bba aab aaa bab false false
+bba abb -285 baa aba bab false abb aba abb bbb false true
+aba abb 370 aba aab bba false aaa aab aaa bba false true
+aba bba 9 baa baa aba true bba bab bab bab false false
+aab bab -563 aba aaa aaa false bbb aab bbb bab true false
+aab bab 690 aba aab abb true bba bab aba bba false true
+abb baa 265 aab abb aaa true bba bba aab bbb false true
+aba abb 585 aaa aba bab true bbb bba abb aba true false
+bbb aaa -80 abb aaa bab true bbb abb abb abb true true
+aba bba 178 bbb bba abb false baa abb aab bab false false
+aba aab 33 aaa bab bab true aab aba aba bbb true false
+aaa aab -693 abb aba abb false bab aaa bba bba false true
+aba aba 337 aab aab bab false bbb aaa bba aab true false
+aaa abb 943 aab bab bab true aaa bba aaa bab true false
+abb aab 667 bab bbb bba false bab abb abb bba false false
+bab bbb -950 aaa abb aba false abb aab abb aba false false
+bbb aab 802 baa bbb bab false abb bba aaa aaa false true
+bab baa -128 aab baa aba true aba bba bbb abb false true
+bbb bab 268 bab aba aaa true aba abb aba bab true false
+baa aba -153 bab aab bbb false abb aab bbb aaa true true
+baa bab 527 bba aba aaa false aaa abb aba abb false true
+aaa aaa -57 aaa baa bab false bbb bbb bab aaa false false
+aaa aba -784 abb aaa bbb false bbb baa baa abb false true
+bbb baa 332 bbb bbb bab false bab abb baa baa true false
+abb aab 733 aab baa bab true bab aba abb bab false true
+abb aba -273 baa bbb aba true baa aba bba aab true true
+aaa abb -812 bab aab baa true bbb bbb bba bab true true
+baa bbb -359 bab abb bbb true aab bba aaa bba true true
+aab aba -44 bbb abb aba true bba aba abb bbb false false
+aaa bba 246 abb aba aab false aaa aab bab bab true true
+baa baa -475 abb baa abb true bab aba bbb baa true true
+bbb aab 925 aba aaa aba false aba baa bab aab false false
+bab aab -47 bba bab bbb false abb bab aaa bbb true true
+bba bab 596 baa aab baa false bba aba bba bbb true false
+aaa baa -799 aab aba abb false aaa baa bba aaa true true
+bbb aba -645 abb aba aab true aaa bab aba bbb false true
+aaa aab 723 baa aab aaa false abb bab aba baa true false
+baa aba -840 bbb bbb abb true aab aab aba bbb false true
+bab aba 967 abb bbb abb true bab aba baa aaa true false
+aab bba -190 bab baa abb true aab bbb bbb bba false false
+aab bba -987 bba aba aba false aba bbb aba aaa false true
+aaa baa -637 baa bba bbb true bab abb abb bab false true
+aaa aba -902 baa bab bab false baa aba bbb bab false false
+aba abb -975 abb aba baa true aaa abb abb bab false true
+bba aba -674 abb aba bab false aaa abb bab baa true false
+baa aaa -243 abb bbb aaa false aaa bba aaa bab false false
+bab aab -803 bab baa bba true bba bbb aab bba true true
+aab bab -949 aab abb aba true aaa aba aba aaa false false
+aba aaa -593 aba aaa baa true aba baa baa bab true true
+aba bab 780 aaa aba aab false aba abb aab bbb false true
+bbb bbb 567 bba baa aba false bba aaa aaa aaa true false
+bba aba 344 aba abb aab true abb baa aaa baa false false
+baa bbb 517 aaa abb aba false abb bba bab baa true true
+aaa abb -756 bba bab abb false aab baa abb abb false false
+aab aaa 3 bba aaa bba false bba abb baa bbb false false
+bab aba -321 bba bab aba true bab aaa aab aab true false
+bab baa -12 bab bbb aaa true aaa bbb bab aaa false true
+aaa aaa 562 bab bbb aaa false bbb aab aaa abb false true
+5
+uredi 1 7
+uredi 1 6
+uredi 1 13
+uredi 1 11
+uredi 1 -1
+28 5

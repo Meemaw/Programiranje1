@@ -1,0 +1,49 @@
+# skupina A
+T vrniX [] t7 >d
+T vrniY [] t5 >d
+T vrniX [] t5 >d
+T vrniY [] t1 >d
+P vrniK [] p0 >d
+P vrniN [] p3 >d
+P vrniK [] p6 >d
+P vrniN [] p9 >d
+
+# skupina B
+T toString [] t6 >S
+T toString [] t2 >S
+P toString [] p3 >S
+P toString [] p9 >S
+T razdalja [T] t6 t2 >d
+T razdalja [T] t4 t8 >d
+T razdalja [T] t2 t6 >d
+T razdalja [T] t5 t5 >d
+
+# skupina C
+T izhodisce [] _ >T
+T razdaljaOdIzhodisca [] t5 >d
+T razdaljaOdIzhodisca [] t9 >d
+P tockaPriX [d] p2 d1/3   >T
+P tockaPriX [d] p4 d-50/7 >T
+P tockaPriX [d] p6 d0/1   >T
+P skoziTocko [dT] _ d6/7   t2 >P
+P skoziTocko [dT] _ d-40/1 t8 >P
+
+# skupina D
+P vzporednica [T] p6 t2 >P
+P vzporednica [T] p5 t0 >P
+P pravokotnica [T] p4 t7 >P
+P pravokotnica [T] p3 t6 >P
+P presecisce [Pd] p2 p9 d1/10000 >T
+P presecisce [Pd] p1 p6 d1/10000 >T
+P presecisce [Pd] p0 p5 d1/10000 >T
+P presecisce [Pd] p7 p7 d1/10000 >T
+
+# skupina E
+P projekcija [T] p6 t2 >T
+P projekcija [T] p9 t0 >T
+P razdalja [T] p0 t4 >d
+P razdalja [T] p8 t9 >d
+P razdaljaOdIzhodisca [] p8 >d
+P razdaljaOdIzhodisca [] p4 >d
+P razdalja [d] p7 d-7/2 >d
+P razdalja [d] p8 d24/7 >d

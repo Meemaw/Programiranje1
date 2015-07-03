@@ -1,0 +1,27 @@
+18 4
+0 0 2 2
+-197 -484 false false
+875 -136 false true
+791 -477 true true
+-663 -661 false false
+73 970 true false
+752 -778 false true
+-151 248 true true
+-748 -476 false true
+842 329 false false
+39 -230 true false
+314 -433 true true
+414 705 false false
+-809 841 false false
+-577 107 false false
+-335 182 true true
+-189 -14 true true
+677 -703 true false
+585 -284 true true
+5
+stolpci 2 4
+stolpci 1 2
+stolpci 1 1
+stolpci 1 1
+stolpci 1 1
+15 1

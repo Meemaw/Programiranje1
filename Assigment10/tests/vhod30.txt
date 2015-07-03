@@ -1,0 +1,34 @@
+27 15
+1 2 2 2 1 0 1 0 0 2 2 0 2 0 2
+aab true true false bba 27 aab 707 32 false true -722 false -9 false
+bab true true true aba -416 bbb -602 709 false false -248 false 177 false
+baa true false true aba -641 bba -722 710 true false -520 true -364 false
+bba false false false bab 731 baa 644 -769 false true 248 false 916 false
+aba true false true bba 109 aba 326 782 true true 865 true -71 true
+bbb true true false aba 212 bab -702 -790 true true -362 false -223 false
+bba false false false bbb 640 bab 296 692 true true -333 false 862 false
+baa false false false baa -499 bba -884 13 false false 780 false -176 true
+bbb true true true bab 673 bab 96 128 true false -957 true 215 true
+bbb true false true aab 825 aab 831 -26 false false 817 true -791 false
+bbb true false true baa 495 aab 111 490 true false -43 false 659 true
+aba false true false aba 979 abb 166 -833 true true -518 true 357 false
+aba true true false bba 513 aaa -63 316 false false -810 true 645 true
+aab false true false abb -906 bab -734 661 false true 750 false -699 true
+bba false true false bba 579 aba 49 371 false true 758 true 879 true
+bba true false false baa 160 baa 505 782 true true -701 true 426 false
+abb false true true aba 872 bba 710 -363 false true 69 true -378 false
+abb true true true bbb 540 abb -213 119 false true -233 true -18 false
+aba false false false bba -190 bab -545 572 true true -446 false -696 false
+aaa true false true abb 839 bbb 526 -289 true false 241 false 948 false
+bba false true false bab -982 baa 966 -990 false false -383 true -925 true
+bba true true false aab -998 bbb -845 -324 false false 936 true -665 true
+aba true false true bbb -568 abb 214 189 false false -844 false 362 true
+aaa true false false bba 533 bbb 9 925 false true 694 false 410 false
+bab false false true bba -999 aaa 448 903 true false -736 true -358 false
+baa true true true bab -270 aab 84 238 false false 996 false -566 true
+bab true false true abb -579 abb -837 -901 false false 438 true 140 false
+3
+stolpci 4 9
+stolpci 1 6
+stolpci 2 4
+14 3

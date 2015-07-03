@@ -1,0 +1,30 @@
+ostruct{prim76, prim66, prim55, prim38}
+364
+364
+pstruct{prim100, prim13, prim62, prim49, prim72, prim4, prim77, prim98, prim67, prim95, prim26, prim15, prim93, prim65, prim50, prim79, prim47}
+1012
+1040
+ostruct{prim11, prim14, prim83, prim75, prim90, prim81, prim84, prim92, prim72, prim15, prim30}
+936
+936
+ostruct{prim86, prim19}
+156
+156
+ostruct{prim3, prim53, prim78, prim33, prim15, prim19, prim58, prim83, prim73, prim34}
+780
+780
+pstruct{prim91, prim80, prim32, prim72, prim80, prim11, prim39, prim37}
+442
+468
+pstruct{prim64, prim87, prim85, prim4, prim96, prim23}
+359
+364
+pstruct{prim53, prim8}
+61
+104
+pstruct{prim20, prim15, prim92, prim87, prim60, prim52, prim61, prim6, prim89, prim86, prim94, prim77, prim15, prim9}
+763
+780
+pstruct{prim17, prim35, prim35, prim61, prim41}
+189
+208

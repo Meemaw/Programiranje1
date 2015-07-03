@@ -1,0 +1,14 @@
+56
+10
+prim 83
+prim 3
+prim 39
+prim 1
+prim 100
+prim 65
+prim 9
+prim 72
+prim 33
+prim 49
+1
+3 3
