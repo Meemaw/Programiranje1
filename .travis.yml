@@ -4,5 +4,4 @@ os:
   - linux
   - osx
 
-script: ./tests.sh
-
+script: ./test.sh
