@@ -9,4 +9,4 @@ You can test the code yourself using command ./scripts/tests.sh
 
 Current status of tests:
 
-https://travis-ci.org/Meemaw/Programiranje1.svg?branch=master
+[![Build Status](https://travis-ci.org/Meemaw/Programiranje1.svg?branch=master)](https://travis-ci.org/Meemaw/Programiranje1)
