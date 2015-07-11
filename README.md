@@ -1,7 +1,7 @@
 # Programiranje1
 
 
-This is a repository of solutions to my assigments at class "Programiranje 1" at my university. Code is automatically tested via Travis with every push/pull.
+This is a repository of solutions to my assigments at class "Programiranje 1" at my university. Code is automatically tested via Travis with every push.
 
 Every assigment directory has raw code, test file and script in it. Test script iterate through the assisgments, running test script in each which tests the code with given inputs and outputs.
 
